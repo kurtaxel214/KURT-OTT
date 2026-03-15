@@ -568,14 +568,17 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index
 
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Converge", ALL TV
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Converge", HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Converge", Cinemax
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Converge", CNN International	
 http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Converge", Celestial Movies Pinoy	
-http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Converge", PBO
 http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -637,12 +640,12 @@ http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title="Converge", Arirang
 http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Converge", Cinemax
-http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ABCLogo.png/revision/latest?cb=20161012105022" group-title="Converge", Aliw Channel
 http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Converge", Celestial Movies Pinoy	
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Converge", ABC Australia
 http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
@@ -732,10 +735,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87H
 	
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
-#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Converge", ALL TV
-http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
+
 #EXTINF:-1 tvg-logo="" group-title="Converge", Filam TV
 http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
