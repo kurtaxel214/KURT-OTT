@@ -47,6 +47,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yourlogo.png" group-title="Cignal", Star Movies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
+
 #EXTINF:-1 tvg-id="cartoon_net_hd" group-title="Cignal" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
