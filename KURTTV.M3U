@@ -8,7 +8,7 @@
 #EXTINF:-1 group-title="▶▶ UPDATES ◀◀" tvg-logo="https://i.imgur.com/XkmkHPW.png",➤ Changes & Updates will be posted here👇
 http://example.com/stream
 
-▶▶Cignal◀◀
+▶▶ Cignal HD ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/zGBAxwS.png"
 
@@ -605,7 +605,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/arirang_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
 
-▶▶Cable◀◀
+▶▶ Cable HD ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/LqHCfMs.png"
 
@@ -870,7 +870,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Cable", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-▶▶Global TV◀◀
+▶▶ Global TV ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/E9e3XrJ.png"
 
