@@ -10,7 +10,7 @@ http://example.com/stream
 
 **********Cignal-TV**********
 
-#EXTINF:-1 group-logo="https://i.imgur.com/Ozzl5nS.png"
+#EXTINF:-1 group-logo="https://i.imgur.com/zGBAxwS.png"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="Cignal", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
