@@ -77,9 +77,6 @@ http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ycmyL2r.png" group-title="Cignal HD", Star Movies
-http://51.15.7.9:3141/starmovies/index.m3u8
-
 #EXTINF:-1 tvg-id="cartoon_net_hd" group-title="Cignal HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
