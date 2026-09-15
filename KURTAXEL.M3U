@@ -37,7 +37,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/ind
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
 
-**********Cignal-TV**********
+▶▶ Cignal TV ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
@@ -433,7 +433,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
-**********Converge-TV**********
+▶▶ Converge ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
@@ -746,7 +746,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-**********World-TV**********
+▶▶ World TV ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
@@ -1343,7 +1343,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
-**********FM Radio**********
+▶▶ FM Radio ◀◀
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
 
@@ -1400,84 +1400,5 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
