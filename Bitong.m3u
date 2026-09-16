@@ -9,12 +9,31 @@
 #EXTINF:-1 group-title="▶▶ MESSAGE ◀◀" tvg-logo="https://i.imgur.com/XkmkHPW.png" ,➤ “HAPPY 27TH BIRTHDAY KHENT STAY SAFE AND GOD BLESS”
 http://example.com/stream
 
-#EXTINF:-1 group-title="▶▶ MESSAGE ◀◀" tvg-logo="https://i.imgur.com/XkmkHPW.png" ,INGAT & THANK YOU SA TANAN
+#EXTINF:-1 group-title="▶▶ MESSAGE ◀◀" tvg-logo="https://i.imgur.com/XkmkHPW.png" ,INGAT & SORRY   — FRIEND
 http://example.com/stream
 
-▶▶ Cignal-TV ◀◀
+▶▶ GSAT HD ◀◀
+
+#EXTINF:-1 group-logo="https://i.imgur.com/heSamDS.png"
+
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="GSAT HD", GMA 7	
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="GSAT HD", GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="GSAT HD", TV5
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+▶▶ Cignal TV ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
+
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="Cignal",BBC Lifestyle
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
 
 #EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="Cignal",Bilyonaryoch
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,10 +55,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hbohd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1980" group-title="Cignal",HBO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Cignal", HBO
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="tvmaria_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/2C55AD7F-3589-48DA-BEC4-005200215975/0-16x9.jpg?width=1980" group-title="Cignal",TV Maria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -402,9 +419,24 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
-▶▶ Converge-TV ◀◀
+▶▶ Converge ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png" group-title="Converge",BBC News
+http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001218&contentid=ch00000000000000001218&videoid=ch00000090990000001095&recommendtype=0&userid=1001363869638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MC1HG0HEY2EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Converge",One PH
+http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001418&contentid=ch00000000000000001418&videoid=ch00000090990000001198&recommendtype=0&userid=1529671159516&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P4UJ3LAHAFIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omP283K.png" group-title="Converge",Rai Italia
+http://136.239.159.18:6610/001/2/ch00000090990000001099/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001235&contentid=ch00000000000000001235&videoid=ch00000090990000001099&recommendtype=0&userid=1127958632030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KEK2TOK1TAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/c/c0/VOP_Logo.png" group-title="Converge",RJTV Radyo Bandido TV
+http://136.239.173.2:6610/001/2/ch00000090990000001338/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001829&contentid=ch00000000000000001829&videoid=ch00000090990000001338&recommendtype=0&userid=1573154325684&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LFDH1A45249XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_DOC.png" group-title="Converge",CGTN Documentary
+http://136.239.158.30:6610/001/2/ch00000090990000001110/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArdyomhJMtr4RuT7a45TbNMsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001253&contentid=ch00000000000000001253&videoid=ch00000090990000001110&recommendtype=0&userid=1624995133910&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YIL44C7PHAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png" group-title="Converge", Pinoy Xtreme Channel
 http://136.239.158.18:6610/001/2/ch00000090990000001098/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001222&contentid=ch00000000000000001222&videoid=ch00000090990000001098&recommendtype=0&userid=1869817604648&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NKXBKKPYOEXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -700,7 +732,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-▶▶ World-TV ◀◀
+▶▶ World TV ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
@@ -1354,8 +1386,5 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-
-
 
 
