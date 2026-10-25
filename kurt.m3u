@@ -2,11 +2,11 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-▶▶ MESSAGE ◀◀
+▶▶ KURT MESSAGE ◀◀
 
 #EXTINF:-1 group-logo="https://i.imgur.com/XkmkHPW.png"
 
-#EXTINF:-1 group-title="▶▶ MESSAGE ◀◀" tvg-logo="https://i.imgur.com/XkmkHPW.png" ,➤ “Message lang kayo pag may problema sa Channels.” -Kurt
+#EXTINF:-1 group-title="▶▶ KURT MESSAGE ◀◀" tvg-logo="https://i.imgur.com/XkmkHPW.png" ,➤ “Message lang kayo pag may problema sa Channels.” -Kurt
 http://example.com/stream
 
 ▶▶ GSAT HD ◀◀
