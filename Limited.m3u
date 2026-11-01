@@ -1,0 +1,75 @@
+#EXTM3U billed-msg="▶▶ 𝕄3𝕌 𝕆𝕎ℕ𝔼𝔻 𝔹𝕐: 𝗞𝗨𝗥𝗧 ◀◀"
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+
+▶▶ KURT MESSAGE ◀◀
+
+#EXTINF:-1 group-logo="https://i.imgur.com/XkmkHPW.png"
+
+#EXTINF:-1 group-title="▶▶ KURT MESSAGE ◀◀" tvg-logo="https://i.imgur.com/XkmkHPW.png" ,➤ “SIGE 1 WEEK LANG TO, BAKA MAG CHANGE OF MIND” -Kurt
+http://example.com/stream
+
+▶▶ GSAT HD ◀◀
+
+#EXTINF:-1 group-logo="https://i.imgur.com/heSamDS.png"
+
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="GSAT HD", GMA 7	
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="GSAT HD", GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="GSAT HD", TV5
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="GSAT HD", Cinema One
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="GSAT HD", PBA RUSH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="GSAT HD", UAAP Varsity Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
+
+▶▶ Cignal HD ◀◀
+
+#EXTINF:-1 group-logo="https://i.imgur.com/zGBAxwS.png"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Cignal HD",Kapamilya Channel HD
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Cignal HD", TV5 HD
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Cignal HD", GMA 7	
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Cignal HD", HBO
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="Cignal HD", HBO Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="Cignal HD", NBA TV Philippines HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="Cignal HD", One Sports
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Cignal HD", One Sports+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="cartoon_net_hd" group-title="Cignal HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
+https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
